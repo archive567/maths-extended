@@ -11,7 +11,7 @@ Maths-Extended is some general maths'y stuff
 ## Develop
 
 ``` sh
-$ git clone https://github.com/tonyday567/maths-extended.hs
+$ git clone https://github.com/tonyday567/maths-extended.git
 $ cd maths-extended
 
 $ cabal sandbox init
